@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+//time n+logn   space-o(1)
 public class Intervals {
 
 	static class Interval {
